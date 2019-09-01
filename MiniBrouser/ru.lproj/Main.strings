@@ -1,0 +1,27 @@
+
+/* Class = "UIBarButtonItem"; title = "Favorite"; ObjectID = "1Qt-XO-acc"; */
+"1Qt-XO-acc.title" = "Favorite";
+
+/* Class = "UITextField"; placeholder = "Enter adress"; ObjectID = "LyU-mS-4NK"; */
+"LyU-mS-4NK.placeholder" = "Enter adress";
+
+/* Class = "UILabel"; text = "https://www.apple.com"; ObjectID = "PZf-Za-btt"; */
+"PZf-Za-btt.text" = "https://www.apple.com";
+
+/* Class = "UIBarButtonItem"; title = "Undo"; ObjectID = "S83-6B-tLo"; */
+"S83-6B-tLo.title" = "Undo";
+
+/* Class = "UITableViewController"; title = "Content"; ObjectID = "UP8-UN-ACJ"; */
+"UP8-UN-ACJ.title" = "Content";
+
+/* Class = "UINavigationItem"; title = "Закладки"; ObjectID = "fPr-Xk-arh"; */
+"fPr-Xk-arh.title" = "Закладки";
+
+/* Class = "UIBarButtonItem"; title = "Share"; ObjectID = "lr2-l2-sMo"; */
+"lr2-l2-sMo.title" = "Share";
+
+/* Class = "UIBarButtonItem"; title = "Redo"; ObjectID = "lsd-fA-q4q"; */
+"lsd-fA-q4q.title" = "Redo";
+
+/* Class = "UIBarButtonItem"; title = "Refresh"; ObjectID = "mY5-oa-mYm"; */
+"mY5-oa-mYm.title" = "Refresh";
